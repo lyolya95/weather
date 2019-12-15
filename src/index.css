@@ -223,8 +223,8 @@ button:hover,
 
 @media screen and (max-width: 501px) {
   #map {
-    top: 76%;
-    left: 40%;
+    top: 16%;
+      left: 62%;
     height: 23%;
     width: 37%;
   }
